@@ -16,6 +16,7 @@
 
 import test from 'ava';
 import run, { ENTER } from 'inquirer-test';
+import fs from 'fs';
 
 const cliPath = __dirname + '/index.js';
 

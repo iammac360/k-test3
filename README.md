@@ -18,4 +18,5 @@ you can find this on this [repo](https://github.com/iammac360/k-test3)
 
 ## Running the Actual App
 - Just Execute `node index.js`.
+- To read from any file like `input.in` just run `node readInputFile.js`
 
