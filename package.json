@@ -1,0 +1,16 @@
+{
+  "name": "test3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.24.0",
+    "inquirer-test": "^2.0.1"
+  },
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  },
+  "scripts": {
+    "test": "./node_modules/ava/cli.js -s"
+  }
+}
